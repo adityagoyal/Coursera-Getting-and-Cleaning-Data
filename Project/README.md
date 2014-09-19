@@ -1,6 +1,8 @@
 Files in this repo
 
+UCI HAR Dataset folder -- contains train and test and feature dataset.
 README.md -- you are reading it right now
+codebook.md -- codebook for the repo
 run_analysis.R -- actual R code
 merged_data.txt -- merged data
 data_with_means.txt -- tidy dataset with average of each variable for each activity and subject
