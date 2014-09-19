@@ -2,7 +2,7 @@ Coursera-Getting-and-Cleaning-Data
 ===================================
 
 
-Files in this repo<br/>
+<bold>Files in this repo<br/></bold>
 
 UCI HAR Dataset folder -- contains train and test and feature dataset.<br/>
 README.md -- you are reading it right now<br/>
