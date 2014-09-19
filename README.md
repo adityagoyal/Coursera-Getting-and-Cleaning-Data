@@ -2,16 +2,16 @@ Coursera-Getting-and-Cleaning-Data
 ===================================
 
 
-Files in this repo
+Files in this repo<br/>
 
-UCI HAR Dataset folder -- contains train and test and feature dataset.
-README.md -- you are reading it right now
-codebook.md -- codebook for the repo
-run_analysis.R -- actual R code
-merged_data.txt -- merged data
-data_with_means.txt -- tidy dataset with average of each variable for each activity and subject
+UCI HAR Dataset folder -- contains train and test and feature dataset.<br/>
+README.md -- you are reading it right now<br/>
+codebook.md -- codebook for the repo<br/>
+run_analysis.R -- actual R code<br/>
+merged_data.txt -- merged data<br/>
+data_with_means.txt -- tidy dataset with average of each variable for each activity and subject<br/>
 
-run_analysis.R results in two files:-
+run_analysis.R results in two files:-<br/>
 1)Merges the training and the test sets to create one data set.
 2)Extracts only the measurements on the mean and standard deviation for each measurement. <br/> 
 3)Uses descriptive activity names to name the activities in the data set. <br/> 
